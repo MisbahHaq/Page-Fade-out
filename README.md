@@ -19,6 +19,8 @@ This project demonstrates a scroll-animated, sticky card layout using GSAP Scrol
 
 ---
 
+https://github.com/user-attachments/assets/01cf58ed-e78e-4006-af02-bf2916084c20
+
 
 ## Tech Stack
 
